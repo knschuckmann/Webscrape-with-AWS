@@ -1,0 +1,8 @@
+*.csv
+*.xlsx
+*.strings
+links.py
+cronjob.sh
+google_api.py
+run_insolvenz.app
+__pycache__/
